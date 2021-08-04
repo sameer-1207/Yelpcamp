@@ -22,7 +22,7 @@ To see the app in action, go to [YelpCamp](https://yelp-camp-prakalpshakya31.her
 ## Getting Started
 ### Clone or download this repository
 ```
-git clone https://github.com/prakalpshakya31/Yelp-Camp.git
+git clone https://github.com/sameer-1207/Yelpcamp.git
 ```
 ### Get mongoDB
 ```
